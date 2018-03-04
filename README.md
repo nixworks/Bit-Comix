@@ -1,2 +1,2 @@
-# Bit-Comix
+# Bit Comix
 (U+20BF)
